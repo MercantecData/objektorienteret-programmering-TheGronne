@@ -3,13 +3,12 @@ using System.IO;
 
 namespace Overloading
 {
-    public class math
+    public class Math
     {
         public int additive(int number1, int number2)
         {
             return number1 += number2;
         }
-
         public float additive(float number1, float number2)
         {
             return number1 += number2;
@@ -28,7 +27,6 @@ namespace Overloading
         {
             return number1 -= number2;
         }
-
         public float subtraction(float number1, float number2)
         {
             return number1 -= number2;
@@ -47,7 +45,6 @@ namespace Overloading
         {
             return number1 *= number2;
         }
-
         public float multiplication(float number1, float number2)
         {
             return number1 *= number2;
@@ -66,7 +63,6 @@ namespace Overloading
         {
             return number1 /= number2;
         }
-
         public float division(float number1, float number2)
         {
             return number1 /= number2;
