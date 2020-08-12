@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryTest", "LibraryTest\LibraryTest.csproj", "{A38D7660-D30B-4602-B4DD-6DEDDCA9B8F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project", "Project\Project.csproj", "{501349C1-4756-422A-9E29-D7FA1F8443C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project LibraryTest", "Project\Project LibraryTest.csproj", "{501349C1-4756-422A-9E29-D7FA1F8443C4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{D570FED8-E240-4B4C-BD27-E52533926528}"
 EndProject
@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading", "..\Overloadi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate4", "..\Delegate4\Delegate4\Delegate4.csproj", "{38BED0B3-0F89-4DAA-8518-455C61121871}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda Expressions", "Lambda Expressions\Lambda Expressions.csproj", "{134E477D-4F83-4A55-9553-47E1D6B8BED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda Expressions", "Lambda Expressions\Lambda Expressions.csproj", "{134E477D-4F83-4A55-9553-47E1D6B8BED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading Project", "Multithreading Project\Multithreading Project.csproj", "{30615CA6-3D12-4D34-A2BC-824248EC9941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{134E477D-4F83-4A55-9553-47E1D6B8BED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{134E477D-4F83-4A55-9553-47E1D6B8BED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{134E477D-4F83-4A55-9553-47E1D6B8BED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30615CA6-3D12-4D34-A2BC-824248EC9941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30615CA6-3D12-4D34-A2BC-824248EC9941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30615CA6-3D12-4D34-A2BC-824248EC9941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30615CA6-3D12-4D34-A2BC-824248EC9941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
