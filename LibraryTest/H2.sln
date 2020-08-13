@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading", "..\Overloadi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate4", "..\Delegate4\Delegate4\Delegate4.csproj", "{38BED0B3-0F89-4DAA-8518-455C61121871}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda Expressions", "Lambda Expressions\Lambda Expressions.csproj", "{134E477D-4F83-4A55-9553-47E1D6B8BED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda Expressions", "Lambda Expressions\Lambda Expressions.csproj", "{134E477D-4F83-4A55-9553-47E1D6B8BED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Classes", "Abstract Classes\Abstract Classes.csproj", "{8722DA7B-9EEE-4087-B4E8-554B29EA4B42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{134E477D-4F83-4A55-9553-47E1D6B8BED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{134E477D-4F83-4A55-9553-47E1D6B8BED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{134E477D-4F83-4A55-9553-47E1D6B8BED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8722DA7B-9EEE-4087-B4E8-554B29EA4B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8722DA7B-9EEE-4087-B4E8-554B29EA4B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8722DA7B-9EEE-4087-B4E8-554B29EA4B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8722DA7B-9EEE-4087-B4E8-554B29EA4B42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,7 @@
 ﻿using System;
 using Overloading;
 
-namespace Delegate4
+namespace Delegate
 {
     class Program
     {
